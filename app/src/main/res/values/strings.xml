@@ -15,4 +15,10 @@
     <string name="hlong_syringe">HLong Syringe</string>
     <string name="none">none</string>
     <string name="usa">USA</string>
+    <string name="dashboardnguyenlong">DashboardNguyenLong</string>
+    <string name="long_service">Long Service</string>
+
+    <string name="long_manager">Long Manager</string>
+    <string name="long_ideas">Long Ideas</string>
+    <string name="long_syringe">Long Syringe</string>
 </resources>

@@ -22,10 +22,10 @@
         android:id="@+id/textTitle"
         android:layout_width="317dp"
         android:layout_height="62dp"
-        android:text="@string/record"
+        android:text="@string/dashboardnguyenlong"
 
         android:textColor="@color/white"
-        android:textSize="34sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
