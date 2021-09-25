@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidDashboard</string>
+    <string name="_186_000z">186,000z</string>
+    <string name="record">Record</string>
+    <string name="followers">Followers</string>
+    <string name="_186_000d">186.000d</string>
+    <string name="mart_di_ti">Mart Di Ti</string>
+    <string name="_223000">223000</string>
+    <string name="_22300d">22300d</string>
+    <string name="_300000d">300000d</string>
+    <string name="_240000d">240000d</string>
+    <string name="b_ng_theo_d_i">Bảng theo dõi</string>
+    <string name="ng_i_theo_d_i">Người theo dõi</string>
+    <string name="ng_i_truy_c_p">Người truy cập</string>
+    <string name="hlong_syringe">HLong Syringe</string>
+    <string name="none">none</string>
+    <string name="usa">USA</string>
+</resources>
