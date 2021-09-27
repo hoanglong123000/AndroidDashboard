@@ -21,4 +21,8 @@
     <string name="long_manager">Long Manager</string>
     <string name="long_ideas">Long Ideas</string>
     <string name="long_syringe">Long Syringe</string>
+    <string name="kai">KAI</string>
+    <string name="bia_h_n_i">Bia Hà Nội</string>
+    <string name="gi_ti_n">giá tiền</string>
+    <string name="t_n_s_n_ph_m">Tên sản phẩm</string>
 </resources>
